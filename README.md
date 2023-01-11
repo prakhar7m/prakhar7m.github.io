@@ -10,7 +10,7 @@ This portfolio is a compilation of notebooks and projects which I created for da
 
 ### Avocado Price Analysis
 
-[Github](https://github.com/prakhar7m/prakhar7m.github.io/blob/master/Notebooks/price-of-avocados-pattern-recognition-analysis.ipynb) [nbviewer](https://nbviewer.org/github/prakhar7m/prakhar7m.github.io/blob/master/Notebooks/price-of-avocados-pattern-recognition-analysis.ipynb)
+[Github](https://github.com/prakhar7m/prakhar7m.github.io/blob/master/Notebooks/price-of-avocados-pattern-recognition-analysis.ipynb) [nbviewer](https://nbviewer.org/github/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/price-of-avocados-pattern-recognition-analysis.ipynb)
 
 Avocado Prices: A time series forecasting project. 
 
