@@ -14,3 +14,9 @@ This portfolio is a compilation of notebooks and projects which I created for da
 
 Avocado Prices: A time series forecasting project. 
 
+### Python: Seaborn Data Visualization Tutorial
+
+[Github](https://github.com/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/SNS%20Tutorial.ipynb) [nbviewer](https://nbviewer.org/github/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/SNS%20Tutorial.ipynb)
+
+Visualizing Data with a python package - Seaborn
+
