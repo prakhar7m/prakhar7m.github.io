@@ -24,8 +24,7 @@ Visualizing Data with a python package - Seaborn
 
 ### Tutorial: Python objects and classes, Deep Learning workstation setup and, an example of the universal ML workflow.
 
-[Github](https://github.com/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Deep%20Learning%20Basics.ipynb)[nbviewer]
-(https://nbviewer.org/github/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Deep%20Learning%20Basics.ipynb)
+[Github](https://github.com/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Deep%20Learning%20Basics.ipynb)[nbviewer](https://nbviewer.org/github/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Deep%20Learning%20Basics.ipynb)
 
 ### Predicting House Prices with Neural Network Regression
 
