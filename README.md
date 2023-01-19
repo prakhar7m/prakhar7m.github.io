@@ -21,3 +21,13 @@ Avocado Prices: A time series forecasting project.
 Visualizing Data with a python package - Seaborn
 
 ## Deep Learning Notebooks
+
+### Tutorial: Python objects and classes, Deep Learning workstation setup and, an example of the universal ML workflow.
+
+[Github](https://github.com/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Deep%20Learning%20Basics.ipynb)[nbviewer]
+(https://nbviewer.org/github/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Deep%20Learning%20Basics.ipynb)
+
+### Predicting House Prices with Neural Network Regression
+
+[Github](https://github.com/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Regression(Boston%20Housing).ipynb)
+[nbviewer](https://nbviewer.org/github/prakhar7m/prakhar7m.github.io/blob/main/Notebooks/Regression%28Boston%20Housing%29.ipynb)
